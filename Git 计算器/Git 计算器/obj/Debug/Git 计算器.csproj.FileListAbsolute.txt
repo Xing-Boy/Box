@@ -1,0 +1,7 @@
+G:\C#\Git 计算器\Git 计算器\bin\Debug\Git 计算器.exe.config
+G:\C#\Git 计算器\Git 计算器\bin\Debug\Git 计算器.exe
+G:\C#\Git 计算器\Git 计算器\bin\Debug\Git 计算器.pdb
+G:\C#\Git 计算器\Git 计算器\obj\Debug\Git 计算器.csprojAssemblyReference.cache
+G:\C#\Git 计算器\Git 计算器\obj\Debug\Git 计算器.csproj.CoreCompileInputs.cache
+G:\C#\Git 计算器\Git 计算器\obj\Debug\Git 计算器.exe
+G:\C#\Git 计算器\Git 计算器\obj\Debug\Git 计算器.pdb
